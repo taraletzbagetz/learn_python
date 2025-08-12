@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=ZGWL-VipWhU
+
+sudo apt install python3
+
+python3 --version
+
+sudo apt install python3-pip
+
+sudo apt install python3-venv
+-------------------------
+
+python3 -m venv myenv
+
+soruce myenv/bin/activate
+
+pip install pandas
+
+deactivate
+
+
+
+
+
