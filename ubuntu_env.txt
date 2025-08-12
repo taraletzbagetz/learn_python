@@ -18,6 +18,7 @@ pip install pandas
 deactivate
 
 ---------------------------
+git remote set-url origin 
 
 git add -all
 
