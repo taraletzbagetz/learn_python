@@ -17,6 +17,14 @@ pip install pandas
 
 deactivate
 
+---------------------------
+
+git add -all
+
+git commit -m "comment"
+
+git push origin main
+
 
 
 
